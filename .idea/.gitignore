@@ -9,4 +9,4 @@
 *.dump
 *.xml
 *.gitattributes
-/target
+*/target
